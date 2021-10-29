@@ -18,3 +18,4 @@
 - Flash the firmware tasmota.bin with Flasher
 - Power on the ESP module and connect to the AP named Tasmota-XXXXXX (XXXXXX is last 6 letters of MAC address of the ESP module)
 - Access address 192.168.4.1 and follow the instructions
+- Follow these <a href="https://iotcircuithub.com/tasmota-alexa-integration-guide/">instructions</a> to use the module with Alexa
